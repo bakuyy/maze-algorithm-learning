@@ -1,4 +1,4 @@
-from pyMaze import maze, agent
+from pyamaze import maze, agent
 m = maze(15,20)
 m.CreateMaze()
 
