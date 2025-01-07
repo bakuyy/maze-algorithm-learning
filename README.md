@@ -12,4 +12,6 @@
 
 ### Side Notes:
 - Mazes are generated automatically.  
-- Paths are traced based on the algorithm.  
+- Paths are traced based on the algorithm.   
+
+### Check Notes folder for annotations/explanations!
