@@ -8,12 +8,12 @@
 - Data structure used for the collection of objects based on FIFO (first in, first out) principle.
     - The first item stored in the queue is the first item out.
     
-<img src="./images/queue" width="400" />
+<img src="./images/queue.png" width="400" />
 
 - **Similar DS: Dequeue**
     - Can push and pop from both sides.
     
-<img src="./images/dequeue" width="400" />
+<img src="./images/dequeue.png" width="400" />
 
 - There is no built-in queue in Python, so we can either import the `queue` library or use lists:
     - `append()` pushes an item in.
